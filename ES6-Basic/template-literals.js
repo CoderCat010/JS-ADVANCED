@@ -8,8 +8,8 @@
 // 'dcjdcnjdcnjdcnjdcnjdncjdncjdcn';
 // console.log(text1);
 
-const text2 = `jnjcdnjcnjdcnjdcjdcjdcnjdcnjdcnjdcnjdnc
-jdncjdcn`;
-console.log(text2);
+// const text2 = `jnjcdnjcnjdcnjdcjdcjdcnjdcnjdcnjdcnjdnc
+// jdncjdcn`;
+// console.log(text2);
 
 
