@@ -1,0 +1,36 @@
+=============================================================>NOTE: 1
+//-----> practice: 4
+// function addNum(num1, num2 = 0){
+//     console.log(num1, num2);
+    
+//     return num1 + num2;
+// }
+// console.log(addNum(2));
+
+
+//-----> practice: 5
+// function addNum(num1 = 3, num2 = 0){
+//     console.log(num1, num2);
+    
+//     return num1 + num2;
+// }
+// console.log(addNum());
+
+
+//-----> practice: 5
+// function addNum(num1 = 3, num2 = 0){
+//     console.log(num1, num2);
+    
+//     return num1 + num2;
+// }
+// console.log(addNum(5));
+
+
+//-----> practice: 5
+// function addNum(num1 = 2, num2 = 3){
+//     console.log(num1, num2);
+    
+//     return num1 + num2;
+// }
+// console.log(addNum(5, 10)); // ekhane kahini ta hocce amra jokhon kono value pathai na tokhon jog kore ashole kichu pay undefined dekhay and jokhon amra default vabe kono perameter er value set kore dei tokhon se value hishebe oita niye kaj kore but jokhon default value o dei aslo argument o pass kori tokhon default value niye kaj kore na tokhon oi argument er pass kora value niyei kaj kore etai top priority pay tokhon jotoi default value set kore dei seta ney na. etar reason hocce default value hoccce ekta safety net like user iccha korei jodi duita value ba kono value e na pathay tokhon js oi default value ta use kore but jokhon user argument ba value ta dey tokhon js seta kei priority dey kaj logically user to kajer jonnoi value ta dice va argument ta pass korce tahole keno default value ta niye kaj korbe? user er jeta dorkar setai to dibe karon dorkar bolei to se value ta pass korce otherwose to korto na. thats it!
+============================================================================================================================
