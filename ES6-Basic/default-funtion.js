@@ -15,9 +15,18 @@
 
 
 //-----> practice: 3
-function addNum(num1, num2){
+// function addNum(num1, num2){
+//     console.log(num1, num2);
+    
+//     return num1 + num2;
+// }
+// console.log(addNum());
+
+
+//-----> practice: 4
+function addNum(num1, num2 = 0){
     console.log(num1, num2);
     
     return num1 + num2;
 }
-console.log(addNum());
+console.log(addNum(2));
