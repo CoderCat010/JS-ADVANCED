@@ -6,9 +6,18 @@
 
 
 //-----> practice: 2
+// function addNum(num1, num2){
+//     console.log(num1, num2);
+    
+//     return num1 + num2;
+// }
+// console.log(addNum(2));
+
+
+//-----> practice: 3
 function addNum(num1, num2){
     console.log(num1, num2);
     
     return num1 + num2;
 }
-console.log(addNum(2));
+console.log(addNum());
