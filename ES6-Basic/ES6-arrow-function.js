@@ -13,7 +13,6 @@
 // console.log(sum(1, 2, 3, 4));
 
 
-
 // object
 // const getObjElm = (person) => person.age;
 // console.log(getObjElm({name: 'anu', age: 30}));
@@ -21,4 +20,8 @@
 // array
 // const getArrElm = (element) => element[3];
 // console.log(getArrElm([1, 2, 3, 4]));
+
+
+const  addNum = (num1, num2 = 3) => num1 + num2;
+console.log(addNum(2));
 

@@ -4,5 +4,5 @@
 // const add = [...arr, 99,'addffd', ...arry];
 // console.log(add);
 
-const fruits = ['আম', 'কাঁঠাল', 'লিচু'];
-console.log(...fruits);
+// const fruits = ['আম', 'কাঁঠাল', 'লিচু'];
+// console.log(...fruits);
