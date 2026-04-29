@@ -8,7 +8,12 @@ const person = {
 // console.log(name);
 
 // we can rename the properties name
-const {name: userName, address, occupation} = person;
+// const {name: userName, address, occupation} = person;
+// const {name = 'cat', address, occupation} = person;
 // console.log(name);
-console.log(userName);
+// console.log(name);
+
+
+
+//-----> Array Destructuring
 
