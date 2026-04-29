@@ -17,7 +17,9 @@ const person = {
 
 //-----> Array Destructuring --- array er khetre position ba index value diye alada kore.
 const arrElm = ['billi', 'code', 'hehe'];
-const [one, two, three] = arrElm;
-console.log(two);
+// const [one, two, three] = arrElm; 
+// const [one, , three] = arrElm;
+// console.log(two);
+// console.log(three);
 
 
