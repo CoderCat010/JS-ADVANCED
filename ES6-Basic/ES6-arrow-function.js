@@ -21,7 +21,20 @@
 // const getArrElm = (element) => element[3];
 // console.log(getArrElm([1, 2, 3, 4]));
 
+// practice: 1
+// const  addNum = (num1, num2 = 3) => num1 + num2;
+// console.log(addNum(2));
 
-const  addNum = (num1, num2 = 3) => num1 + num2;
-console.log(addNum(2));
-
+// practice: 2
+// const arrElm = (elm) =>{
+//     const result = [];
+//     for(const values of elm){
+//         if(values.length % 2 === 0){
+//             result.push('its even');
+//         }else{
+//             result.push('its odd')
+//         }
+//     };
+//     return result;
+// };
+// console.log(arrElm(['kana', 'boka', 'dhola', 'kodu']));
