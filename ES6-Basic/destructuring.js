@@ -1,4 +1,4 @@
-//-----> object destructuring
+//-----> object destructuring --- object er khetre nam/property diye access kore ba alada kore.
 const person = {
     name: 'billi',
     address: 'dhaka',
@@ -15,5 +15,9 @@ const person = {
 
 
 
-//-----> Array Destructuring
+//-----> Array Destructuring --- array er khetre position ba index value diye alada kore.
+const arrElm = ['billi', 'code', 'hehe'];
+const [one, two, three] = arrElm;
+console.log(two);
+
 
