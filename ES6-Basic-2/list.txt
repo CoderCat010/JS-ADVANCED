@@ -1,0 +1,15 @@
+-----------------ES6 এ কত ধরনের Chaining?-------------------
+    1. Array Chaining filter, map, reduce...
+    2. Promise Chaining .then().catch()
+    3. Optional Chaining ?.
+    4. Nullish Coalescing ??
+    5. String Chaining .trim().split()
+    6. Custom/Builder নিজে বানানো
+
+
+
+✅-------------------MOST IMPORTENT--------------------- 
+    1. .filter(), .map(), .reduce()---> [Array Chaining]
+    2. Optional Chaining (?.)
+    3. Nullish Coalescing (??)
+    4. .then() .catch()---> [Promise Chaining]  
