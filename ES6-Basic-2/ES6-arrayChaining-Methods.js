@@ -27,7 +27,7 @@
 
 
 
-// array object
+//----- array object
 // const users = [
 //   { name: 'Rahim', age: 25, salary: 30000 },
 //   { name: 'Karim', age: 30, salary: 45000 },
@@ -53,6 +53,6 @@
 
 
 //-----> find method
-const arrElm = [ 2, 3, 4];
+// const arrElm = [ 2, 3, 4];
 // console.log(arrElm.find(n => n * n));
-console.log(arrElm.find(n => n % 2 === 1));
+// console.log(arrElm.find(n => n % 2 === 1));

@@ -1,0 +1,6 @@
+===========================================NOTE: 1
+differance between map, filter, find, forEach
+1. map prttekta jinish iterate kore kichu ekta kore then seta return kore notun akta array hishbe.
+2. filter map er motoi kaj kore and iterate kore bachai kora jinish return kore dibe notun akta array hishbe.
+3. find same jinish e korbe but return korbe bachai kora jinish er prothom value ta but jodi khuje na pay tahole undefined dekhabe.
+4. foreach same jinish korbe but kichu return korbe na.
