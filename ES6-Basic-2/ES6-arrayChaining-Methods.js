@@ -38,7 +38,14 @@
 
 
 //-----> forEach method
-const arrElm = [1, 2, 3, 4];
-const a = arrElm.forEach(n => {
-    console.log( n);
-}) // return nothing
+// const arrElm = [1, 2, 3, 4];
+// const a = arrElm.forEach(n => {
+//     console.log( n);
+// }) // return nothing
+
+
+
+//-----> filter method
+const arrElm = [1, 2, 3, 4, 5, 6];
+const selectedElm = arrElm.filter(even => even % 2 === 0);
+console.log(selectedElm);
