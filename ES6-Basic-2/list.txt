@@ -8,9 +8,8 @@
 
 
 
-✅-------------------MOST IMPORTENT--------------------- 
-    1. .filter(), .map(), .reduce(), .find(), .findIndex(), .some(), .every(), .flat(), .flatMap()
-    ---> [Array Chaining]
+-------------------MOST IMPORTENT--------------------- 
+    1. .filter(), .map(), .reduce(), .find()---> [Array Chaining]
     2. Optional Chaining (?.)
     3. Nullish Coalescing (??)
     4. .then() .catch(), Promise.all(), .finally()---> [Promise Chaining] 

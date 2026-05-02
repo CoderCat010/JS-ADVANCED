@@ -46,6 +46,13 @@
 
 
 //-----> filter method
-const arrElm = [1, 2, 3, 4, 5, 6];
-const selectedElm = arrElm.filter(even => even % 2 === 0);
-console.log(selectedElm);
+// const arrElm = [1, 2, 3, 4, 5, 6];
+// const selectedElm = arrElm.filter(even => even % 2 === 0);
+// console.log(selectedElm);
+
+
+
+//-----> find method
+const arrElm = [ 2, 3, 4];
+// console.log(arrElm.find(n => n * n));
+console.log(arrElm.find(n => n % 2 === 1));
