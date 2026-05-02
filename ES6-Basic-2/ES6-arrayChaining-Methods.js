@@ -1,7 +1,12 @@
 //-----> map method
 const arrElm = [1, 2, 3, 4];
 
-const a = arrElm.map(function(elm){
-    return elm * elm;
-})
+// regular function
+// const a = arrElm.map(function(elm){
+//     return elm * elm;
+// })
+// console.log(a);
+
+// arrow function
+const a = arrElm.map(elm => elm * elm)
 console.log(a);
