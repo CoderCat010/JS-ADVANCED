@@ -12,8 +12,13 @@ const arrElm = [1, 2, 3, 4];
 // console.log(a);
 
 //---> arrow function + curly bracket
-const a = arrElm.map(elm => {
-    return elm * elm;
-})
+// const a = arrElm.map(elm => {
+//     return elm * elm;
+// })
+// console.log(a);
 
-console.log(a);
+// another way
+function multiply(mult){
+    return mult * mult;
+}
+console.log(arrElm.map(multiply));
