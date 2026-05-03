@@ -14,3 +14,12 @@
     3. Nullish Coalescing (??)
     4. .then() .catch(), Promise.all(), .finally()---> [Promise Chaining] 
     5. .trim().split().join()---> [String Chaining] 
+
+
+
+------------------৫ ধরনের Optional Chaining আছে:
+    1. obj?.prop ---> Property access
+    2. obj?.[key] ---> Bracket notation
+    3. obj?.method() ---> Method call
+    4. fn?.() ---> Function call
+    5. arr?.[0] ---> Array index
