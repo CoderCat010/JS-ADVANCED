@@ -20,6 +20,4 @@
 ------------------৫ ধরনের Optional Chaining আছে:
     1. obj?.prop ---> Property access
     2. obj?.[key] ---> Bracket notation
-    3. obj?.method() ---> Method call
-    4. fn?.() ---> Function call
-    5. arr?.[0] ---> Array index
+    3. arr?.[0] ---> Array index
