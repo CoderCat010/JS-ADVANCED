@@ -56,3 +56,6 @@
 // const arrElm = [ 2, 3, 4];
 // console.log(arrElm.find(n => n * n));
 // console.log(arrElm.find(n => n % 2 === 1));
+
+
+
