@@ -3,5 +3,10 @@
   * varibale is not defined;
  */
 
-let first;
-console.log(first);
+// let first;
+// console.log(first);
+
+function addNum(nums){
+
+}
+console.log(addNum());
