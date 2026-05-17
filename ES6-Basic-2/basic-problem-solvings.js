@@ -9,3 +9,7 @@ const polapain = [
     {name: 'kamrul', job: 'besarkari', salary: 740000}
 ];
 
+const jamais = polapain.filter((pola) => (pola.job === 'sarkari' && pola.salary >= 20000) || (pola.job === 'besarkari' && pola.salary >= 40000))
+console.log(jamais);
+
+
