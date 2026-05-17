@@ -8,5 +8,8 @@ const obj = {
 // console.log(obj);
 
 const convertIntoJson = JSON.stringify(obj);
+const convertIntoObj = JSON.parse(convertIntoJson);
 console.log(convertIntoJson);
+console.log(convertIntoObj);
+
 
