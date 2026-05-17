@@ -5,5 +5,8 @@ const obj = {
     address: 'dhaka',
     contact: 19183838383982992 
 }
+// console.log(obj);
 
-console.log(obj);
+const convertIntoJson = JSON.stringify(obj);
+console.log(convertIntoJson);
+
