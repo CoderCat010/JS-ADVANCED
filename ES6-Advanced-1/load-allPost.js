@@ -7,9 +7,12 @@ const loadPost = () => {
 // loadPost()
 
 const displayPost = (posts) =>{
+    const postContainer = document.getElementById("post-container");
+    const liList = document.createElement('li');
+
     for(let post of posts){
-        console.log(post);
-        
+        liList.innerText = post.title;
+        postContainer.appendChild(liList);
     }
     
 }
