@@ -14,5 +14,4 @@ const displayPost = (posts) =>{
         liList.innerText = post.title;
         postContainer.appendChild(liList);
     }
-    
 }
