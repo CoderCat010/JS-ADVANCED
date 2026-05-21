@@ -4,7 +4,7 @@ let num = 0;
 // }, 3000);
 
 
-const x = setInterval(() => {
-    clearInterval(x);
-    console.log(num++);
-}, 3000);
+// const x = setInterval(() => {
+//     clearInterval(x);
+//     console.log(num++);
+// }, 3000);
