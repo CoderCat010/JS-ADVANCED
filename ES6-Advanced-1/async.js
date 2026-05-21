@@ -1,11 +1,11 @@
-console.log(3);
+// console.log(3);
 
-setTimeout(() => {
-    doSum();
-}, 6000)
-console.log(5);
+// setTimeout(() => {
+//     doSum();
+// }, 6000)
+// console.log(5);
 
 
-function doSum(){
-    console.log(2);
-}
+// function doSum(){
+//     console.log(2);
+// }
