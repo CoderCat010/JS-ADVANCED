@@ -12,4 +12,7 @@ function submitBtn(){
         console.log('ERROR: ', err);
         errorMsg.innerHTML = 'Something is wrong...!'
     }
+    finally{
+        console.log('all done');   
+    }
 }
