@@ -14,10 +14,10 @@
 
 
 //object acessing in arrow function
-const getUser = () => ({
-    name: 'rin',
-    age: 20,
-    adress: 'philippine'
-})
+// const getUser = () => ({
+//     name: 'rin',
+//     age: 20,
+//     adress: 'philippine'
+// })
 
-console.log(getUser());
+// console.log(getUser());
