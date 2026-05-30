@@ -9,6 +9,6 @@
 // console.log(m, color, price);
 
 
-const arrElm = [1, 3, 4];
-const [f, g, h] = arrElm;
-console.log(f, g, h);
+// const arrElm = [1, 3, 4];
+// const [f, g, h] = arrElm;
+// console.log(f, g, h);
